@@ -1,6 +1,19 @@
-# 🚀 Turbo CLI
+<div align="center">
+  <h1>🚀 Turbo CLI</h1>
+  
+  <img src="https://tenor.com/view/goku-flying-nimbus-dragon-ball-kid-goku-gif-27039833
+  " alt="Turbo CLI" width="600px" />
 
-A powerful CLI tool for managing Turborepo monorepo projects. Quickly scaffold applications, packages, controllers, services, and middleware with consistent structure and best practices :)
+  <p>A powerful CLI tool for managing Turborepo monorepo projects. Quickly scaffold applications, packages, controllers, services, and middleware with consistent structure and best practices.</p>
+
+  <p>
+    <a href="#features">Features</a> •
+    <a href="#installation">Installation</a> •
+    <a href="#usage">Usage</a> •
+    <a href="#development">Development</a> •
+    <a href="#contributing">Contributing</a>
+  </p>
+</div>
 
 ## ✨ Features
 
