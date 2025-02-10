@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>🚀 Turbo CLI</h1>
   
   
   <img src="https://media1.tenor.com/m/hfI7Dbn7OqQAAAAd/goku-flying-nimbus.gif" alt="Turbo CLI" width="600px" />
+  <h1>🚀 Turbo CLI</h1>
 
   <p>A powerful CLI tool for managing Turborepo monorepo projects. Quickly scaffold applications, packages, controllers, services, and middleware with consistent structure and best practices.</p>
 
