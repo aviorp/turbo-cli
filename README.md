@@ -17,7 +17,7 @@ A powerful CLI tool for managing Turborepo monorepo projects. Quickly scaffold a
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/turbo-cli.git
+git clone https://github.com/aviorp/turbo-cli.git
 ```
 
 2. Run the installation script:
