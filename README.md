@@ -1,7 +1,8 @@
+![alt text](https://tenor.com/view/goku-flying-nimbus-dragon-ball-kid-goku-gif-27039833)
+
 <div align="center">
   <h1>🚀 Turbo CLI</h1>
-  
-  ![alt text](https://tenor.com/view/goku-flying-nimbus-dragon-ball-kid-goku-gif-27039833)
+
 
   <p>A powerful CLI tool for managing Turborepo monorepo projects. Quickly scaffold applications, packages, controllers, services, and middleware with consistent structure and best practices.</p>
 
