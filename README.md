@@ -23,7 +23,6 @@ git clone https://github.com/aviorp/turbo-cli.git
 2. Run the installation script:
 
 ```bash
-cd turbo-cli/scripts
 chmod +x install-cli.sh
 ./install-cli.sh
 ```
@@ -42,19 +41,19 @@ source ~/.zshrc
 
 ```bash
 # Create a new application
-nk create app my-app
+tc create app my-app
 
 # Create a new package
-nk create package shared-ui
+tc create package shared-ui
 
 # Create a new controller
-nk create controller users
+tc create controller users
 
 # Create a new service
-nk create service auth
+tc create service auth
 
 # Create a new middleware
-nk create middleware logging
+tc create middleware logging
 
 ```
 
@@ -63,16 +62,16 @@ nk create middleware logging
 The CLI provides convenient aliases for faster development:
 
 ```bash
-nka my-app          # Create app
-nks my-service      # Create service
-nkc my-controller   # Create controller
-nkm my-middleware   # Create middleware
+tca my-app          # Create app
+tcs my-service      # Create service
+tcc my-controller   # Create controller
+tcm my-middleware   # Create middleware
 ```
 
 ## 🎯 Interactive Mode
 
 ```bash
-nk new # Interactive mode
+tc new # Interactive mode
 ```
 
 Navigate using:
